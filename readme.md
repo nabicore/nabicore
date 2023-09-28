@@ -7,5 +7,5 @@
 - [CEGB](https://cegb.co.jp/) IT Innovation Division Engineer (2019.04 ~ 2021.03)
 - [Diraph](https://diraph.com/) Part-Time Engineer (2017.12 ~ 2019.03)
 
-## Links
+## 🔗Links
 - [Wantedly](https://www.wantedly.com/id/heewon_kim_kr)
