@@ -2,6 +2,7 @@
 日本と韓国で活動しているものです。
 
 ## 🎖Carrier
+- [LEVELY](https://levely.tokyo) CTO (2024.02 ~ )
 - [STARDY](https://stardy.co.jp) Inc. Lead Engineer (2022.12 ~ )
 - [The Compass](https://www.the-compass.kr/) Inc. Junior Engineer (2021.03 ~ 2023.11)
 - [CEGB](https://cegb.co.jp/) IT Innovation Division Engineer (2019.04 ~ 2021.03)
